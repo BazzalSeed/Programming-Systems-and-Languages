@@ -1,0 +1,5 @@
+
+
+test ( 1 , 2 , 3 ) ^ seed ( is , awesome ) :- chris()
+test ( 1 , 2 , 3 ) ^ seed ( is , awesome ) :- partners ( chris , seed )
+test ( 1 , 2 , 3 ) ^ seed ( is , awesome ) :- partners ( chris , seed ) ^ hello ( world )

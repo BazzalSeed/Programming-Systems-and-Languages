@@ -1,0 +1,3 @@
+test ( ) 
+test ( ) ^ my ( poor , talent ) ^ is ( no , match , for ) :- seed ( ) 
+hello ( ) :- Hello ( ) 

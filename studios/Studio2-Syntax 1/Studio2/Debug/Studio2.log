@@ -1,0 +1,18 @@
+﻿Build started 8/26/2015 9:51:27 AM.
+     1>Project "\\warehouse2.seasad.wustl.edu\home\zengpeiyun\winprofile\desktop\CSE425\Studio2-Syntax 1\Studio2\Studio2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Studio2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Studio2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Studio2.cpp
+         Studio2.cpp
+     1>\\warehouse2.seasad.wustl.edu\home\zengpeiyun\winprofile\desktop\cse425\studio2-syntax 1\studio2\studio2.cpp(179): warning C4101: 'i' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\warehouse2.seasad.wustl.edu\home\zengpeiyun\winprofile\desktop\CSE425\Studio2-Syntax 1\Debug\Studio2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\warehouse2.seasad.wustl.edu\home\zengpeiyun\winprofile\desktop\CSE425\Studio2-Syntax 1\Debug\Studio2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\warehouse2.seasad.wustl.edu\home\zengpeiyun\winprofile\desktop\CSE425\Studio2-Syntax 1\Debug\Studio2.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\Studio2.obj
+         LINK : \\warehouse2.seasad.wustl.edu\home\zengpeiyun\winprofile\desktop\CSE425\Studio2-Syntax 1\Debug\Studio2.exe not found or not built by the last incremental link; performing full link
+         Studio2.vcxproj -> \\warehouse2.seasad.wustl.edu\home\zengpeiyun\winprofile\desktop\CSE425\Studio2-Syntax 1\Debug\Studio2.exe
+     1>Done Building Project "\\warehouse2.seasad.wustl.edu\home\zengpeiyun\winprofile\desktop\CSE425\Studio2-Syntax 1\Studio2\Studio2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.50

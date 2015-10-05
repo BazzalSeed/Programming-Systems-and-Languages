@@ -1,0 +1,6 @@
+
+chris ( ) :-
+seed ( ) :- chris()
+seed ( ) :- chris ( )
+DOG ( ) :- test ( ^ )
+

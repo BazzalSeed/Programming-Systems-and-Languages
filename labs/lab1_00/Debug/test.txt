@@ -1,0 +1,14 @@
+this is a test ( )
+1234
+chris ( ) :-
+seed ( ) :- chris()
+seed ( ) :- chris ( )
+h1
+hello ( ) :- Hello ( )
+test ( 1 , 2 , 3 ) :- partners ( chris , seed ) ^ hello ( world ) :- dog ( 2 )
+test ( ) ^ my ( tiny , fist ) ^ is ( no , match , for ) :- seed ( )
+hello ( world ) test ( )
+hello ( world )
+test ( )
+
+DOG ( ) :- test ( ^ )

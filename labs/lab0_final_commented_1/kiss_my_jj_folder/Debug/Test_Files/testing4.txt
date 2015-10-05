@@ -1,0 +1,6 @@
+test ( ) 
+chris ( ) 
+seed ( ) :- chris ( ) 
+DOG ( ) 
+test ( 1 , 2 , 3 ) :- partners ( chris , seed ) ^ hello ( world ) 
+dog ( 2 ) 

@@ -1,0 +1,4 @@
+Chris()
+seed (
+Mengna (1 , 2 , ^ )
+Seed ( 1 , 2 , :- )

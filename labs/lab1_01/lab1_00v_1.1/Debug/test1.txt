@@ -1,0 +1,4 @@
+Chris ( )
+a ( x , z ) :- p ( 1 , 2 ) ^ t ( d , c )
+Mengna ( 1 , 2 )
+

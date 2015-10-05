@@ -1,0 +1,8 @@
+this is a test ( )
+1234
+chris ( ) :-
+88
+seed ( ) :- chris ( )
+h1
+DOG ( ) :- test ( ^ )
+test ( 1 , 2 , 3 ) :- partners ( chris , seed ) ^ hello ( world ) :- dog ( 2 )
